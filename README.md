@@ -41,7 +41,7 @@ This repository contains MATLAB scripts and Simulink models used for the modelin
    After the simulation finishes, run `no_demand_results.m` to store the results.
 4. Run `filter_no_signals.m` to extract the correct 24-hour values for each measurement.
 
-### B. Demand response – Cost / CO₂ minimization
+### B. Demand response – Cost / CO₂ minimization (cost_flowchart.png)
 
 5. Run **one** of the following optimization scripts:
    - `gwo_nn_comb_co2.m` (CO₂-oriented objective), or  
