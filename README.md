@@ -21,7 +21,7 @@ This repository contains MATLAB scripts and Simulink models used for the modelin
 - `results/`  
   Simulation results (`.mat`, `.fig`).
 
-- flowcharts of the 2 scenarios (.png)
+- flowcharts of the 2 scenarios ('.png')
 
 ## Requirements
 
