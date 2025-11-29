@@ -21,10 +21,7 @@ This repository contains MATLAB scripts and Simulink models used for the modelin
 - `results/`  
   Simulation results (`.mat`, `.fig`).
 
-- `docs/` (optional)  
-  Additional documentation.
-
----
+- flowcharts of the 2 scenarios (.png)
 
 ## Requirements
 
@@ -64,8 +61,10 @@ This repository contains MATLAB scripts and Simulink models used for the modelin
     - `loss_history_figure.fig`
     - `load_compar.mat`
     - `load_history.mat`
-13. Run `filter_with_loss_signals.m` to extract the correct 24-hour values for each measurement.
-14. Run `calculate_cost_kgCO2.m` to compute the total cost and CO₂ emissions for this scenario.
+13. Now in order to have the simulation results from the load that minimize the losses open and run the "with_demand_res_loss_verify" 
+14. Run `filter_with_loss_signals.m` to extract the correct 24-hour values for each measurement.
+15. Run `calculate_cost_kgCO2.m` to compute the total cost and CO₂ emissions for this scenario.
+    
 
 ---
 
