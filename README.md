@@ -51,7 +51,7 @@ This repository contains MATLAB scripts and Simulink models used for the modelin
 7. Run `filter_with_signals.m` to extract the correct 24-hour values for each measurement.  
    → Cost/CO₂-minimizing DR scenario completed.
 
-### C. Demand response – Loss minimization (iterative GWO–simulation loop)
+### C. Demand response – Loss minimization (iterative GWO–simulation loop) (loss_flowchart.png)
 
 8. Close and reopen MATLAB (to clear the workspace).
 9. Run `initial_conditions.m` to initialize the first iteration.
